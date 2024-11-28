@@ -22,21 +22,18 @@ The methods used in this guide will give you access to System Files. Do NOT mess
         and you should see the `ftpiiu` plugin.
         5. Select the `ftpiiu` plugin and press A
         6. Take note of the IP Address and port (exemple: 192.168.1.110:21)
-> [!NOTE]
-> This isn't your public IP Address, it's your local one. Meaning, nobody 
-> can track you down with the given IP Address on your Wii U.
+        > Note:
+        This isn't your public IP Address, it's your local one. Meaning, nobody can track you down with the given IP Address on your Wii U.
         7. Select `Enable ftpd` and set it to `true`
         8. Go to `Allow access to system files` and set it to `true`
-> [!IMPORTANT]
-> This will give us access to System Files. Do **NOT** mess things up. 
-> I am not reponsible for any damages, as said before.
-> [!NOTE]
-> If the Aroma method doesn't works, switch over to the 
-> [Tiramisu](https://tiramisu.foryour.cafe) method.
+        > :warning: IMPORTANT :warning
+        This will give us access to System Files. Do **NOT** mess things up. I am not reponsible for any damages, as said before.
+        > Note:
+        If the Aroma method doesn't works, switch over to the [Tiramisu](https://tiramisu.foryour.cafe) method.
     
     - If on TIRAMISU:
         1. Go to the HB App Store
-        2. Search `ftpiiu` <br> ![Search image of `ftpiiu`](/assets/images/tiramisu_ftpiiu_hbappstore_search.png)
+        2. Search `ftpiiu` ![Search image of `ftpiiu`](/assets/images/tiramisu_ftpiiu_hbappstore_search.png)
         3. Tap on `FTPiiU Everwhere`
         
 - JNUSTool (included in Releases OR check [this link for original work](https://github.com/Maschell/JNUSTool/releases/tag/0.3b))
