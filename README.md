@@ -18,5 +18,5 @@ Continue to Section I...
 
 
 
-`Post-Scriptum: In memory of Ben "bushing" Byer, <br>`
-`a team fail0verflow/Twiizers member.`
+`Post-Scriptum: In memory of Ben "bushing" Byer,
+a team fail0verflow/Twiizers member.`
