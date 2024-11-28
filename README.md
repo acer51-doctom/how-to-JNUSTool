@@ -46,6 +46,13 @@ The methods used in this guide will give you access to System Files. Do NOT mess
 
 ----------------------------------------------------------------------------
 
+A lot of this guide is WIP (=Work In Progress) and will be completed soon!!!!
+
+Every file needed will be in the Releases section
+
+
+----------------------------------------------------------------------------
+
 ### Table of Contents
 
 ***[Section I](/assets/Section1.md)***: What is JNUSTool? <br>
