@@ -10,8 +10,8 @@ The methods used in this guide will give you access to System Files. Do NOT mess
 
 - Aroma **OR** Tiramisu CFW Environment
 - An FTP Client (PC Side)
-- A valid `OTP.bin`
-- A hex editor
+- A valid `OTP.bin` (dump it from your wii u via the `nanddumper` payload)
+- A hex editor (to get the commonkey)
 - FTPiiU
     - If on AROMA:
         1. Go to the Releases OR [the Aroma page](https://aroma.foryour.cafe)
@@ -43,6 +43,7 @@ The methods used in this guide will give you access to System Files. Do NOT mess
         
 - JNUSTool (included in Releases OR check [this link for original work](https://github.com/Maschell/JNUSTool/releases/tag/0.3b))
 - Java to run the .jar files
+- Any **good** text editor (like Notepad++ ect...)
 
 
 ----------------------------------------------------------------------------
