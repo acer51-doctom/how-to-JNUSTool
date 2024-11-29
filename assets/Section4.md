@@ -1,5 +1,4 @@
-# Section IV: Wii U Title IDs Databases (including vWii & virtual console)
-###### don't ask why you need the Title IDs, you might need it...
+# Section IV: SLC file system + title ids
 
 
 :construction: In construction! Come back later! :construction:

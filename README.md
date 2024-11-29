@@ -39,6 +39,7 @@ The methods used in this guide will give you access to System Files. Do NOT mess
         5. Reboot to Tiramisu if you already weren't in it
         6. Go through the pages until you find FTPiiU-Everywhere
         7. Launch FTPiiU-Everywhere and note the IP Address and port
+        8. Exit via the HomeButton then wait..
         
 - JNUSTool (included in Releases OR check [this link for original work](https://github.com/Maschell/JNUSTool/releases/tag/0.3b))
 - Java to run the .jar files
@@ -59,7 +60,7 @@ Every file needed will be in the Releases section
 ***[Section II](/assets/Section2.md)***: How can I use JNUSTool? <br>
 ***[Section III](/assets/Section3.md)***: How do I replace dumped files with JNUSTool? <br>
 Extras:
-***[Section IV](/assets/Section4.md)***: Wii U Title IDs Databases (including vWii & virtual console)
+***[Section IV](/assets/Section4.md)***: SLC file system + title ids
 
 Continue to [Section I...](/assets/Section1.md)
 
