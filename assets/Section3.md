@@ -1,3 +1,3 @@
-# Section III: How do I replace dumped files with JNUSTool?
+# Section III: How can I use JNUSTool?
 
 :construction: In construction! Come back later! :construction:
