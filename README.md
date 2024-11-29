@@ -5,7 +5,7 @@ This guide contains everything you need and explains how to use JNUSTool (i'm la
 
 **:warning: BEFORE HAND REQUIREMENTS!! :warning:**
 
-> [!IMPORTANT]
+> [!CAUTION]
 The methods used in this guide will give you access to System Files. Do NOT mess something up. I'm not responsible for anything, at your own risk!
 
 - [Aroma](https://aroma.foryour.cafe/) **OR** [Tiramisu](https://tiramisu.foryour.cafe/) CFW Environment (refer to wiiu.hacks.guide to mod your Wii U)
@@ -58,7 +58,7 @@ Every file needed will be in the Releases section (excluding Tiramisu or Aroma s
 ### Table of Contents
 
 ***[Section I](/assets/Section1.md)***: What is JNUSTool? <br>
-***[Section II](/assets/section2.md)***: What is an SLC?
+***[Section II](/assets/section2.md)***: What is an SLC? (and other parts of the entire NAND) <br>
 ***[Section III](/assets/Section3.md)***: How can I use JNUSTool? <br>
 ***[Section IV](/assets/Section4.md)***: How do I replace dumped files with JNUSTool? <br> <br>
 Extras: <br> <br>
