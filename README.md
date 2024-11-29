@@ -59,7 +59,7 @@ Every file needed will be in the Releases section
 ***[Section I](/assets/Section1.md)***: What is JNUSTool? <br>
 ***[Section II](/assets/Section2.md)***: How can I use JNUSTool? <br>
 ***[Section III](/assets/Section3.md)***: How do I replace dumped files with JNUSTool? <br>
-Extras:
+Extras: <br>
 ***[Section IV](/assets/Section4.md)***: SLC file system + title ids
 
 Continue to [Section I...](/assets/Section1.md)
