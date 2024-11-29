@@ -58,10 +58,11 @@ Every file needed will be in the Releases section (excluding Tiramisu or Aroma s
 ### Table of Contents
 
 ***[Section I](/assets/Section1.md)***: What is JNUSTool? <br>
-***[Section II](/assets/Section2.md)***: How can I use JNUSTool? <br>
-***[Section III](/assets/Section3.md)***: How do I replace dumped files with JNUSTool? <br> <br>
+***[Section II](/assets/section2.md)***: What is an SLC?
+***[Section III](/assets/Section3.md)***: How can I use JNUSTool? <br>
+***[Section IV](/assets/Section4.md)***: How do I replace dumped files with JNUSTool? <br> <br>
 Extras: <br> <br>
-***[Section IV](/assets/Section4.md)***: SLC file system + title ids
+***[Section V](/assets/Section5.md)***: SLC file system + title ids
 
 Continue to [Section I...](/assets/Section1.md)
 
