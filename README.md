@@ -8,7 +8,7 @@ This guide contains everything you need and explains how to use JNUSTool (i'm la
 > [!IMPORTANT]
 The methods used in this guide will give you access to System Files. Do NOT mess something up. I'm not responsible for anything, at your own risk!
 
-- Aroma **OR** Tiramisu CFW Environment
+- [Aroma](https://aroma.foryour.cafe/) **OR** [Tiramisu](https://tiramisu.foryour.cafe/) CFW Environment (refer to wiiu.hacks.guide to mod your Wii U)
 - An FTP Client (PC Side)
 - A valid `OTP.bin` (dump it from your wii u via the `nanddumper` payload)
 - A hex editor (to get the commonkey from your OTP)
