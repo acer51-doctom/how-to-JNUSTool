@@ -49,7 +49,7 @@ The methods used in this guide will give you access to System Files. Do NOT mess
 
 A lot of this guide is WIP (=Work In Progress) and will be completed soon!!!!
 
-Every file needed will be in the Releases section
+Every file needed will be in the Releases section (excluding Tiramisu or Aroma since I assume you already have cfw...)
 
 
 ----------------------------------------------------------------------------
@@ -59,7 +59,7 @@ Every file needed will be in the Releases section
 ***[Section I](/assets/Section1.md)***: What is JNUSTool? <br>
 ***[Section II](/assets/Section2.md)***: How can I use JNUSTool? <br>
 ***[Section III](/assets/Section3.md)***: How do I replace dumped files with JNUSTool? <br> <br>
-Extras: <br>
+Extras: <br> <br>
 ***[Section IV](/assets/Section4.md)***: SLC file system + title ids
 
 Continue to [Section I...](/assets/Section1.md)
