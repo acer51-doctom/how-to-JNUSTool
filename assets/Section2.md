@@ -23,4 +23,17 @@ Then, there is the Starbuck in the Latte chip also. It contains the boot0 sector
 
 There's also the Espresso chip which also has it's own bootrom.
 
-Then you have 
+Then you have any components like the SMC, Disc Drive, Wireless modules, ect ect... they also have their own firmware installed.
+
+> [!IMPORTANT]
+Only some certain things can be dumped via the payload called `nanddumper` which includes:
+
+- The MLC
+- The SLC
+- The SLCCMPT
+- The SEEPROM
+- The OTP
+
+Nothing else can be dumped without having special tools (desoldering the chips and resoldering them). Or is just impossible to dump.
+
+Proceed to [Section III...](/assets/Section3.md)
