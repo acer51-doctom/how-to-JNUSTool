@@ -26,4 +26,5 @@ You should see a CommonKey error. This is normal.
     - A Hex Editor (more risky since you can accidentally modify the OTP.bin)
         1. Open your favorite Hex Editor. I will be using Hex Fiend but it shouldd be the same for everyone else.
         2. Drag and drop or open the OTP.bin file
+        ![blah blah blah you're being annoying github](/assets/images/drag_and_drop_otp.gif)
     - The CommonKey extractor
