@@ -11,7 +11,6 @@ The methods used in this guide will give you access to System Files. Do NOT mess
 - [Aroma](https://aroma.foryour.cafe/) **OR** [Tiramisu](https://tiramisu.foryour.cafe/) CFW Environment (refer to wiiu.hacks.guide to mod your Wii U)
 - An FTP Client (PC Side)
 - A valid `OTP.bin` (dump it from your wii u via the `nanddumper` payload)
-- A hex editor (to get the commonkey from your OTP)
 - FTPiiU
     - If on AROMA:
         1. Go to the Releases OR [the Aroma page](https://aroma.foryour.cafe)
@@ -44,6 +43,8 @@ The methods used in this guide will give you access to System Files. Do NOT mess
 - JNUSTool (included in Releases OR check [this link for original work](https://github.com/Maschell/JNUSTool/releases/tag/0.3b))
 - Java to run the .jar files
 - Any **good** text editor (like Notepad++ ect...)
+- A hex editor to get the commonkey from your OTP
+- CommonKey extractor in Releases if you don't wanna go through the trouble of using a hex editor.
 
 
 ----------------------------------------------------------------------------
@@ -70,6 +71,7 @@ Special thanks to the creators of:
 - FTPiiU Plugin and FTPiiU Everywhere
 - Java
 - Tiramisu and Aroma
+- GaryOderNichts for the common key extractor
 
 If I missed special thanks to someone, contact me on Discord
 `its_a_me_.arthur`
