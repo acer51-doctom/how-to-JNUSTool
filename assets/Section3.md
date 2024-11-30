@@ -19,7 +19,7 @@ There are some OS version you need to know for the SLC.
 
  Most of those OS are useless. Only the OSv10 one is useful since I don't think you would need the beta firmware of a Wii U (OSv9) or the updater, or anything else. So you basically only need OSv10. Don't even ask why I put the other ones, it's for bestowing knowledge.
 
-> ![NOTE]
+![NOTE]
 The OSv10 (which is what you need) only do small repairs and only redownloads the drivers like BOSS packages, Wii U Keyboard, camera, ect... so if your SLC is corrupted then I'm sorry but this guide can't cover this.
 
 To download one of the files that is corresponding to the correct OS that you need (OSv10 for exemple), <br>
