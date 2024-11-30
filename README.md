@@ -61,8 +61,6 @@ Every file needed will be in the Releases section (excluding Tiramisu or Aroma s
 ***[Section II](/assets/section2.md)***: What is an SLC? (and other chips of the motherboard) <br>
 ***[Section III](/assets/Section3.md)***: How can I use JNUSTool? <br>
 ***[Section IV](/assets/Section4.md)***: How do I replace dumped files with JNUSTool? <br> <br>
-Extras: <br> <br>
-***[Section V](/assets/Section5.md)***: SLC file system + title ids
 
 Continue to [Section I...](/assets/Section1.md)
 

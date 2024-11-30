@@ -3,7 +3,7 @@
 JNUSTool is a tool to redownload missing/corrupted/original Wii U files.
 I will take as an exemple: **the SLC!**
 
-But it can also dump Home menu files (if you wanna region change the home menu)
+But it can also dump applets files for Mii Maker for exemple. (if you wanna region change everything)
 
 E.g: Japanese Wii U to American/European.
 
