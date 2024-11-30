@@ -9,11 +9,13 @@ Tho, there's still some SLC files you might need... The Gamepad Keyboard for exe
 
 There are some OS version you need to know for the SLC.
 
-- OSv0 (cafe2wii, loads the vWii menu)
-- OSv1 (loads enhanced vWii titles downloaded from eShop)
-- OSv9 (Launch-day (wii u internal) OS)
-- OSv10 (The normal OS when you turn on your wii u)
-- OSv255 (Updater)
+- OSv0 (cafe2wii, loads the vWii menu) TitleID: 0005001010004000
+- OSv1 (loads enhanced vWii titles downloaded from eShop) TitleID: 0005001010004001
+- OSv9 (Launch-day (wii u internal) OS) TitleID: 0005001010004009
+- OSv10 (The normal OS when you turn on your wii u) TitleID: 000500101000400A
+- OSv255 (Updater) TitleID: 00050010100040FF
+
+ Most of those OS are useless. Only the OSv10 one is useful since I don't think you would need the beta firmware of a Wii U (OSv9) or the updater, or anything else. So you basically only need OSv10. Don't even ask why I put the other ones, it's for bestowing knowledge.
 
 To download one of the files that is corresponding to the correct OS that you need (OSv10 for exemple), <br>
 You will need to use the Terminal (or CMD on windows (i'm on mac don't judge))
@@ -36,3 +38,6 @@ You should see a CommonKey error. This is normal.
         3. Open it and hit the copy button next to it. 
         4. Copy the string inside of a notepad window
         ![no](/assets/images/commonkey_extractor_section3.gif)
+
+5. After that, go into the `config` file of the JNUSTool folder
+6. Replace the `[COMMONKEY]` with your actual commonkey (please DO delete the brackets)
