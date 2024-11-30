@@ -3,7 +3,7 @@
 The use of JNUSTool is very simple.
 
 First of all, you're gonna need the TitleID of what you wanna download. <br>
-Exemple: American home menu, European Mii Maker, you get it. <br> <br> To get the TitleID you need, refer to (https://wiiubrew.org/wiki/Title_database)[https://wiiubrew.org/wiki/Title_database].
+Exemple: American home menu, European Mii Maker, you get it. <br> <br> To get the TitleID you need, refer to (the Wii U Title IDs database)[https://wiiubrew.org/wiki/Title_database.]
 
 Tho, there's still some SLC files you might need... The Gamepad Keyboard for exemple, which is in the SLC.
 
@@ -14,6 +14,8 @@ There are some OS version you need to know for the SLC.
 - OSv9 (Launch-day (wii u internal) OS) TitleID: 0005001010004009
 - OSv10 (The normal OS when you turn on your wii u) TitleID: 000500101000400A
 - OSv255 (Updater) TitleID: 00050010100040FF
+
+(The TitleIDs are in the previously linked)
 
  Most of those OS are useless. Only the OSv10 one is useful since I don't think you would need the beta firmware of a Wii U (OSv9) or the updater, or anything else. So you basically only need OSv10. Don't even ask why I put the other ones, it's for bestowing knowledge.
 
@@ -44,3 +46,6 @@ You should see a CommonKey error. This is normal.
 
 5. After that, go into the `config` file of the JNUSTool folder
 6. Replace the `[COMMONKEY]` with your actual commonkey (please DO delete the brackets)
+6. Go into Terminal or CMD (depending if you're on Windows, Linux or Mac)
+7. Go to the directory inside of Terminal/CMD
+8. Type the following `java -jar JNUSTool.jar [TitleID you need]

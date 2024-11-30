@@ -3,10 +3,12 @@ How-to: Use JNUSTool
 
 This guide contains everything you need and explains how to use JNUSTool (i'm late to this i swear)
 
-**:warning: BEFORE HAND REQUIREMENTS!! :warning:**
+
 
 > [!CAUTION]
 The methods used in this guide will give you access to System Files. Do NOT mess something up. I'm not responsible for anything, at your own risk!
+
+**:warning: BEFORE HAND REQUIREMENTS!! :warning:**
 
 - [Aroma](https://aroma.foryour.cafe/) **OR** [Tiramisu](https://tiramisu.foryour.cafe/) CFW Environment (refer to wiiu.hacks.guide to mod your Wii U)
 - An FTP Client (PC Side)
@@ -33,7 +35,7 @@ The methods used in this guide will give you access to System Files. Do NOT mess
     - If on TIRAMISU:
         1. Go to the HB App Store
         2. Search `ftpiiu` ![Search image of `ftpiiu`](/assets/images/tiramisu_ftpiiu_hbappstore_search.png)
-        3. Tap on `FTPiiU Everwhere` ![FTPiiU-Everywhere page to download](/assets/images/download_page_ftpiiu_everywhere.png)
+        3. Tap on `FTPiiU_Everwhere` ![FTPiiU-Everywhere page to download](/assets/images/download_page_ftpiiu_everywhere.png)
         4. Press A to download
         5. Reboot to Tiramisu if you already weren't in it
         6. Go through the pages until you find FTPiiU-Everywhere
