@@ -55,4 +55,4 @@ You should see a CommonKey error. This is normal.
 12. Tick the boxes of the files you may need and hit the Download button.
 13. Go to the JNUStool folder where you have previously put JNUSTool.jar and there should be a new folder that has appeared with the new files.
 
-Proceed to [the final Section...](/assets/Section4.md)
+Proceed to [the final Section, Section IV...](/assets/Section4.md)
