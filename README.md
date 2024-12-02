@@ -79,5 +79,5 @@ If I missed special thanks to someone, contact me on Discord
 `its_a_me_.arthur`
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-Post-Scriptum: In memory of (Ben "bushing" Byer)[https://hackmii.com/ben],
+Post-Scriptum: In memory of [Ben "bushing" Byer](https://hackmii.com/ben),
 a team fail0verflow/Twiizers member.
