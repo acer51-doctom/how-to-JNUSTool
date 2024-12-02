@@ -9,4 +9,5 @@ There is two main ways to replace the dumped files to the SLC. (FTP)
 
 <a name="Aroma"></a>
 Via Aroma:
-    1. Remember the ftpiiu plugin we set up? Well we are going to use it.
+    - Do you remember the ftpiiu plugin? Well we are gonna use it.
+        1. 
