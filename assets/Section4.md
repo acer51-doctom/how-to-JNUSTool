@@ -27,4 +27,8 @@ Remember the ftpiiu plugin? Well we are gonna use it.
 
 ## PC Side
 
-1. 
+1. Open your FTP Client
+2. Input the IP address in `host` section and your port in the `port` section. Usually it's 21 which is default for almost everything.
+3. For the login, you need to put either `anonymous` or if there's an anonymous check box, tick it and hit the connect button.
+4. Once your Wii U is connected via FTP, you should see something like `storage_slc` or `slc`. Click it and your Wii U will retrieve the files to show you.
+5. Navigate now to: `
