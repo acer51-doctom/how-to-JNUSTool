@@ -11,9 +11,20 @@ There is two main ways to replace the dumped files to the SLC. (FTP)
 Via Aroma:
 Remember the ftpiiu plugin? Well we are gonna use it.
 
-1. Boot your Wii U. If already booted in Aroma Environment, skip to step 4.
+## Wii U Side
+
+1. Boot your Wii U. If already booted in Aroma Environment (in case of autoboot), skip to step 4.
 > [!NOTE]
 > The following steps are if you don't have AutoBoot installed. Go to [this page if you want Aroma autoboot.](https://wiiu.hacks.guide/aroma/autobooting.html)
 2. Load your correct Environment (Aroma)
-3. Load to the Home Menu
-4.
+3. Load to the Wii U Home Menu (not vWii)
+4. Press L+DOWN+SELECT on your GamePad. You will see the Plugin Menu.
+5. Go to ftpiiu and press A.
+6. Ensure that access to System Files is enabled.
+> [!WARNING]
+> After this point, do NOT touch anything else to your console. FTP is now activated and if you mess something up, I'm not responsible!
+7. Take note of the IP Address shown and port.
+
+## PC Side
+
+1. 

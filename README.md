@@ -3,7 +3,8 @@ How-to: Use JNUSTool
 
 This guide contains everything you need and explains how to use JNUSTool (i'm late to this i swear)
 
-
+> [!NOTE]
+> This is compatible with all types of PCs. Which means that Mac and Linux are supported in this guide.
 
 > [!CAUTION]
 The methods used in this guide will give you access to System Files. Do NOT mess something up. I'm not responsible for anything, at your own risk!
