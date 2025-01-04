@@ -80,7 +80,3 @@ Special thanks to the creators of:
 
 If I missed special thanks to someone, contact me on Discord
 `hello_.artemis`
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-Post-Scriptum: In memory of [Ben "bushing" Byer](https://hackmii.com/ben),
-a team fail0verflow/Twiizers member.
