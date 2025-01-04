@@ -9,6 +9,15 @@ Tho, there's still some SLC files you might need... The Gamepad Keyboard for exe
 
 There are some OS version you need to know for the SLC.
 
+| OS Version | What does it do OR what is it? | TitleID |
+| ---| --- | --- |
+| OSvO - cafe2wii | Loads vWii Menu | 0005001010004000 |
+| Osv1 | Loads "Enhanced" vWii titles downloaded from the eShop | 0005001010004001 |
+| OSv9 - Launch-Day | Launches Wii U's internal OS before CafeOS | 005001010004009 |
+| OSv10 - CafeOS | Your normal Wii U interface once fully booted | 000500101000400A |
+| OSv255 - Updater | What the Wii U uses to update | 00050010100040FF |
+
+
 - OSv0 (cafe2wii, loads the vWii menu) TitleID: 0005001010004000
 - OSv1 (loads enhanced vWii titles downloaded from eShop) TitleID: 0005001010004001
 - OSv9 (Launch-day (wii u internal) OS) TitleID: 0005001010004009
