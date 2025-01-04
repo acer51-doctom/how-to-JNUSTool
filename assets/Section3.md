@@ -50,7 +50,7 @@ You should see a CommonKey error. This is normal.
 6. Replace the `[COMMONKEY]` with your actual commonkey (please DO delete the brackets)
 6. Go into Terminal or CMD (depending if you're on Windows, Linux or Mac)
 7. Go to the directory inside of Terminal/CMD
-8. Type the following `java -jar JNUSTool.jar [TitleID you need] (refer to [the Wii U Title IDs database](https://wiiubrew.org/wiki/Title_database) previously mentioned)
+8. Type the following `java -jar JNUSTool.jar [TitleID you need]` (refer to [the Wii U Title IDs database](https://wiiubrew.org/wiki/Title_database) previously mentioned)
 9. Hit the Enter/Return key on your keyboard
 10. A window should pop-up and some text should also get into the terminal. If you used OSv10, you should get this (or something similar). ![nuh uh no alts](/assets/images/jnustool_osv10.png) 
 11. Click the small arrow next to the check box of `code` then you should get a whole bunch of .rpl, some .elf, .rpx, .txt and .img files. <br> You may recognize .elf and .rpx files in the list of files I listed above. And as you guessed, these files are the same as you may use or have used before! (In terms of Homebrew)
