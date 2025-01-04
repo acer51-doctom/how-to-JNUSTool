@@ -45,7 +45,7 @@ The methods used in this guide will give you access to System Files. Do NOT mess
         
 - JNUSTool (included in Releases OR check [this link for original work](https://github.com/Maschell/JNUSTool/releases/tag/0.3b))
 - Java to run the .jar files
-- Any **good** text editor (like Notepad++ ect...)
+- Any **good** text editor (like Notepad++ ect...) NOTE: TextEdit is good but there are *some* things that needs to be modified using VS Code so make sure to have it.
 - A hex editor to get the commonkey from your OTP
 - CommonKey extractor in Releases if you don't wanna go through the trouble of using a hex editor.
 
@@ -71,13 +71,13 @@ Continue to [Section I...](/assets/Section1.md)
 Special thanks to the creators of:
 
 - JNUSTool
-- FTPiiU Plugin and FTPiiU Everywhere
 - Java
 - Tiramisu and Aroma
 - GaryOderNichts for the common key extractor
+- Dimok for FTPiiU
 
 If I missed special thanks to someone, contact me on Discord
-`its_a_me_.arthur`
+`hello_.artemis`
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Post-Scriptum: In memory of [Ben "bushing" Byer](https://hackmii.com/ben),
