@@ -68,6 +68,8 @@ Every file needed will be in the Releases section (excluding Tiramisu or Aroma s
 
 Continue to [Section I...](/assets/Section1.md)
 
+----------------------------------------------------------------------------
+
 Special thanks to the creators of:
 
 - JNUSTool
