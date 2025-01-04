@@ -4,7 +4,8 @@ There is one main way to replace system files: via FTP or SDCafiine for apps.
 
 There is two main ways to replace the dumped files to the SLC. (FTP)
 
- Click here to see via [Aroma](#Aroma)!
+ Click [here](#Aroma) to see the [Aroma](#Aroma) method.
+ Click [here](#Tiramisu) to see the [Tiramisù](#Tiramisu) method.
 
 
 <a name="Aroma">Via Aroma:</a>
@@ -34,3 +35,10 @@ Remember the ftpiiu plugin? Well we are gonna use it.
 > [!CAUTION]
 > EXTREME CAUTION, TO STEP 6 UNTIL STEP 8, YOU WILL ONLY HAVE 30 SECONDS TO 1 MINUTE TO APPLY THEM BEFORE YOUR FTP CLIENT DISCONNECTS. YOU WILL NEED TO BE **QUICK!!**
 6. Quickly minimize your FTP Client and open a Finder/File Manager/Explorer window where your file that you need to replace is. For simplicity, I will go back to my exemple of replacing the keyboard.
+7. Copy your file that you wanted to replace (`swkbd.rpl` in my exemple/case)
+8. Go back to your FTP client an hit CTRL+V or Command/⌘+V to paste the file you wanna replace. Reboot and done!
+
+<a name="Tiramisu">Via Tiramisù:</a>
+
+i will continue later, it's hella late rn and i have school tmrw :frowning_face:
+*4th Jan of 2025*

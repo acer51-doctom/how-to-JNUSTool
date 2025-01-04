@@ -58,3 +58,6 @@ You should see a CommonKey error. This is normal.
 13. Go to the JNUStool folder where you have previously put JNUSTool.jar and there should be a new folder that has appeared with the new files.
 
 Proceed to [the final Section, Section IV...](/assets/Section4.md)
+
+[^1]: Free to use. Check it out here: https://gitlab.winehq.org/wine/wine/-/wikis/Download
+[^2]: Free trial of 14 days. Costs 75$. Check it out here: https://www.codeweavers.com/crossover/ but I don't think you wanna pay 75$ just for a github tutorial.
