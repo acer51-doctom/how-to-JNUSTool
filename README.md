@@ -72,7 +72,7 @@ Continue to [Section I...](/assets/Section1.md)
 
 Special thanks to the creators of:
 
-- JNUSTool
+- JNUSTool (Maschell)
 - Java
 - Tiramisu and Aroma
 - GaryOderNichts for the common key extractor
@@ -80,3 +80,9 @@ Special thanks to the creators of:
 
 If I missed special thanks to someone, contact me on Discord
 `hello_.artemis`
+
+----------------------------------------------------------------------------
+
+## Contributing
+
+If you wanna contribute to this repo, clone it, create your branch, commit the changes and create a pull request

@@ -38,7 +38,27 @@ Remember the ftpiiu plugin? Well we are gonna use it.
 7. Copy your file that you wanted to replace (`swkbd.rpl` in my exemple/case)
 8. Go back to your FTP client an hit CTRL+V or ⌘ Command+V to paste the file you wanna replace. Reboot and done!
 
+----------------------------------------------------------------------------
+
 <a name="Tiramisu">Via Tiramisù:</a>
 Via Tiramisu, it's gonna be a bit more complicated but very similar to the Aroma method.
 > [!NOTE]
 > This method can also be used if you can't do it on Aroma.
+
+## Wii U Side
+
+1. Boot your Wii U in the Tiramisù environment.
+2. Go into Mii Maker for the Homebrew Launcher.
+3. Open FTPiiU_Everywhere
+> [!NOTE]
+> It is very important to use FTPiiU_Everywhere! It'll allow us access to system files!
+4. Take note of the IP Address and port.
+> [!Warning]
+> Do not touch your Wii U! You will see a bunch of text appear but that's **NORMAL!!**
+
+
+## PC Side
+
+1. Open your preferred FTP client.
+2. Connect to the IP Address and Port using the anonymous mode. You will see a bunch of text on your TV Screen but once again it's normal.
+3. 
