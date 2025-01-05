@@ -1,10 +1,10 @@
 # Section I: What is JNUSTool?
 
-JNUSTool is a tool to redownload missing/corrupted/original Wii U files.
-I will take as an exemple: **the SLC!**
-
-But it can also dump applets files for Mii Maker for exemple. (if you wanna region change everything)
-
-E.g: Japanese Wii U to American/European.
+JNUSTool is a, well, tool to redownload system files like SWKBD.rpl which is the "driver" to make the Wii U Keyboard work.
+It is helpful in a lot of situations, exemple, if you have a custom file and want to put the original one.
 
 Continue to [Section II...](/assets/Section2.md)
+
+
+
+(please contribute to this idk what to say else)
