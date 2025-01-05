@@ -4,7 +4,7 @@ There is one main way to replace system files: via FTP or SDCafiine for apps.
 
 There is two main ways to replace the dumped files to the SLC. (FTP)
 
- Click [here](#Aroma) to see the [Aroma](#Aroma) method.
+ Click [here](#Aroma) to see the [Aroma](#Aroma) method. <br>
  Click [here](#Tiramisu) to see the [Tiramisù](#Tiramisu) method.
 
 
@@ -40,5 +40,3 @@ Remember the ftpiiu plugin? Well we are gonna use it.
 
 <a name="Tiramisu">Via Tiramisù:</a>
 
-i will continue later, it's hella late rn and i have school tmrw :frowning_face:
-*4th Jan of 2025*

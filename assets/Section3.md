@@ -39,7 +39,7 @@ You should see a CommonKey error. This is normal.
         3. Then go to the 0xE0 (which is in my case, in my hex editor, written by "0E0" in the left side bar.) and copy the first 32 bytes
         > WARNING! :warning: Your hex editor might select two bytes by two bytes! Be carefully with it! AND NO THE SPACES DO NOT COUNT AS A BYTE!!!!
         4. Copy the string inside of a notepad window for ease instead of keeping it in your copy and paste history.
-    - The CommonKey extractor (Note that it works with Windows only since it's a .exe. You can use [^1] or CrossOver[^2] to use the software. I didn't try it out but you can.)
+    - The CommonKey extractor (Note that it works with Windows only since it's a .exe. You can use Wine [^1] or CrossOver[^2] to use the software. I didn't try it out but you can.)
         1. Open the `extractor.exe`
         2. Select your OTP.bin 
         3. Open it and hit the copy button next to it. 
