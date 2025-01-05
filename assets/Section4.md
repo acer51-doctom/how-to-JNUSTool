@@ -36,7 +36,9 @@ Remember the ftpiiu plugin? Well we are gonna use it.
 > EXTREME CAUTION, TO STEP 6 UNTIL STEP 8, YOU WILL ONLY HAVE 30 SECONDS TO 1 MINUTE TO APPLY THEM BEFORE YOUR FTP CLIENT DISCONNECTS. YOU WILL NEED TO BE **QUICK!!**
 6. Quickly minimize your FTP Client and open a Finder/File Manager/Explorer window where your file that you need to replace is. For simplicity, I will go back to my exemple of replacing the keyboard.
 7. Copy your file that you wanted to replace (`swkbd.rpl` in my exemple/case)
-8. Go back to your FTP client an hit CTRL+V or Command/⌘+V to paste the file you wanna replace. Reboot and done!
+8. Go back to your FTP client an hit CTRL+V or ⌘ Command+V to paste the file you wanna replace. Reboot and done!
 
 <a name="Tiramisu">Via Tiramisù:</a>
-
+Via Tiramisu, it's gonna be a bit more complicated but very similar to the Aroma method.
+> [!NOTE]
+> This method can also be used if you can't do it on Aroma.
