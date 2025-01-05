@@ -7,7 +7,10 @@ This guide contains everything you need and explains how to use JNUSTool (i'm so
 > This is compatible with all types of PCs. Which means that Mac and Linux are supported in this guide. And this also applies if you replaced a normal system file by a custom one.
 
 > [!CAUTION]
-The methods used in this guide will give you access to System Files. Do NOT mess something up. I'm not responsible for anything, at your own risk!
+>The methods used in this guide will give you access to System Files. Do NOT mess something up. I'm not responsible for anything, at your own risk!
+
+> [!WARNING]
+> Warning! Read this guide **ATLEAST ONCE** before proceeding to it!
 
 **:warning: BEFORE HAND REQUIREMENTS!! :warning:**
 
