@@ -52,14 +52,6 @@ This guide contains everything you need and explains how to use JNUSTool (i'm so
 - A hex editor to get the commonkey from your OTP
 - CommonKey extractor in Releases if you don't wanna go through the trouble of using a hex editor.
 
-
-----------------------------------------------------------------------------
-
-A lot of this guide is WIP (=Work In Progress) and will be completed soon!!!!
-
-Every file needed will be in the Releases section (excluding Tiramisu or Aroma since I assume you already have cfw...)
-
-
 ----------------------------------------------------------------------------
 
 ### Table of Contents
