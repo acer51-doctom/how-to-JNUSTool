@@ -14,7 +14,7 @@ This guide contains everything you need and explains how to use JNUSTool (i'm so
 
 **:warning: BEFORE HAND REQUIREMENTS!! :warning:**
 
-- [Aroma](https://aroma.foryour.cafe/) **OR** [Tiramisu](https://tiramisu.foryour.cafe/) CFW Environment (refer to wiiu.hacks.guide to mod your Wii U)
+- [Aroma](https://aroma.foryour.cafe/) **OR** [Tiramisu](https://tiramisu.foryour.cafe/) CFW Environment (refer to [https://wiiu.hacks.guide](https://wiiu.hacks.guide/) to mod your Wii U)
 - An FTP Client (PC Side)
 - A valid `OTP.bin` (dump it from your wii u via the `nanddumper` payload)
 - FTPiiU
