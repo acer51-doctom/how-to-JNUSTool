@@ -74,7 +74,7 @@ Special thanks to the creators of:
 - Dimok for FTPiiU
 
 If I missed special thanks to someone, contact me on Discord
-`hello_.artemis`
+`acer_51_`
 
 ----------------------------------------------------------------------------
 
