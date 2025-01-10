@@ -21,7 +21,7 @@ Then, there is the OTP partition in the Latte chip containing a bunch of keys (S
 
 Then, there is the Starbuck in the Latte chip also. It contains the boot0 sector which loads boot1.
 
-There's also the Espresso chip which also has it's own bootrom.
+There's also the Espresso chip which also has it's own bootrom. (why do these chips have the names of different coffee)
 
 Then you have any components like the SMC, Disc Drive, Wireless modules, ect ect... they also have their own firmware installed.
 
