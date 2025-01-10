@@ -27,6 +27,8 @@ To download one of the files that is corresponding to the correct OS that you ne
 - The Terminal (Mac and Linux)
 - Command Prompt (Windows)
 
+To launch JNUSTool. Anyways, you're gonna need to do the following steps to geet your CommonKey for JNUSTool.
+
 1. Put the files of JNUSTool inside of a folder on, for exemple, your desktop
 2. Double click JNUSTool.jar
 You should see a CommonKey error. This is normal.
